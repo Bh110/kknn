@@ -1,0 +1,39 @@
+h1{
+    color:antiquewhite;
+}
+/*
+   *{ border:solid;
+}*/
+
+.site-description{
+    display: flex;
+    flex-direction:column;
+    justify-content:initial
+}
+.grid{
+    display: flex;
+    flex-wrap:initial;
+    justify-content: space-evenly;
+    margin: 0cm;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align:justify;
+    color:mediumseagreen;
+
+}
+.origami{
+    margin: 4px;
+    padding: 3px;
+    background-color:lightgreen;
+}
+body{
+    background-color:lightcyan;
+}
+h1{
+color: lightpink;
+background-color: lightsalmon;
+}
